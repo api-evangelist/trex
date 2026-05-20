@@ -28,6 +28,8 @@ apis:
     description: >-
       The Trex Company API provides access to platform services and data for enterprise integration and automation.
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/trex-company
   - type: Website
     url: https://www.trex.com
 maintainers:
