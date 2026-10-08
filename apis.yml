@@ -51,6 +51,12 @@ apis:
     description: >-
       The Trex Company API provides access to platform services and data for enterprise integration and automation.
 common:
+  - type: Plans
+    url: plans/trex-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/trex-rate-limits.yml
+  - type: FinOps
+    url: finops/trex-finops.yml
   - url: https://www.trex.com/our-company/news/
     type: Blog
   - type: DomainSecurity
